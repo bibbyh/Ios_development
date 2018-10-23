@@ -1,15 +1,15 @@
 //
-//  kTests.swift
-//  kTests
+//  Movie_SearchingTests.swift
+//  Movie_SearchingTests
 //
 //  Created by 衡俊吉 on 10/23/18.
 //  Copyright © 2018 junji. All rights reserved.
 //
 
 import XCTest
-@testable import k
+@testable import Movie_Searching
 
-class kTests: XCTestCase {
+class Movie_SearchingTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

@@ -1,6 +1,6 @@
 //
-//  kUITests.swift
-//  kUITests
+//  Movie_SearchingUITests.swift
+//  Movie_SearchingUITests
 //
 //  Created by 衡俊吉 on 10/23/18.
 //  Copyright © 2018 junji. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class kUITests: XCTestCase {
+class Movie_SearchingUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  k
+//  lab4
 //
-//  Created by 衡俊吉 on 10/23/18.
+//  Created by 衡俊吉 on 10/19/18.
 //  Copyright © 2018 junji. All rights reserved.
 //
 
